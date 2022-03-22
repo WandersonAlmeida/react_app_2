@@ -1,6 +1,7 @@
 {
   "name": "react_app_2",
   "version": "0.1.0",
+  "homepage": "github-page/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^1.8.6",
